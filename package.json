@@ -1,0 +1,12 @@
+{
+  "name": "super-luigi-bros",
+  "version": "1.0.0",
+  "description": "Super Luigi Bros - Canvas 2D platformer game",
+  "scripts": {
+    "start": "npx serve . -p 3000",
+    "dev": "npx serve . -p 3000"
+  },
+  "keywords": ["game", "luigi", "platformer", "canvas"],
+  "author": "Gelt Code",
+  "license": "MIT"
+}
